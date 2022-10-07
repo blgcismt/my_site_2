@@ -54,6 +54,10 @@ h5 {
   padding: 20px 0;
 }
 
+input{
+  margin: 10px auto 10px auto;
+}
+
 .top-container {
   background-color: #E4F9F5;
   position: relative;
